@@ -1,0 +1,264 @@
+﻿ID;Recipe Name;Servings;Calories;Protein;Fat;Carbs;Meal;Cuisine;Protein2;Vegetarian;Gluten
+1;Almost Boston Market Creamed Spinach;4;382;18;27;18;Side;Southern;None;Yes;Yes
+2;Baba Ganoush;4;107;3;8;10;Condiment;Mediterranean;None;Yes;Yes
+3;Bacon-wrapped Green Bean Bundles;4;168;5;13;9;Side;American;Bacon;No;Yes
+4;Bacon, Onion, and Brown Lentil Skillet;4;269;18;4;38;Entrée;Mediterranean;Bacon;No;Yes
+5;Baked Chicken Nuggets;4;217;39;8;12;Protein;American;Chicken;No;No
+6;Baked Eggplant Parmesan Stacks;4;128;9;5;13;Entrée;Italian;Cheese;Yes;No
+7;Baked Shrimp Taquitos;4;303;32;12;34;Entrée;Mexican;Shrimp;No;Yes
+8;Beef Burgers with Jerk Onions and Cucumber Avocado Salad;4;421;27;28;22;Entrée;American;Ground beef;No;Yes
+9;Black Bean Burger;4;313;16;9;43;Entrée;American;Beans;Yes;No
+10;Black Bean Fiesta Mason Jar Salad;4;316;7;17;34;Entrée;Mexican;Beans;Yes;No
+11;BLT Macaroni Salad;4;151;5;4;23;Side;American;Bacon;No;Yes
+12;BLTA Pesto Chicken Salad;4;357;29;44;4;Entrée;American;Chicken;No;Yes
+13;Blue Cheese Polenta with Vegetables;4;359;15;14;42;Entrée;American;Cheese;Yes;Yes
+14;Brazilian Shrimp Soup;4;359;24;17;28;Soup;South American;Shrimp;No;No
+15;California Grilled Chicken;4;464;45;21;22;Entrée;American;Chicken;No;No
+16;Cheese & Spinach Stuffed Portobellos;4;185;15;9;12;Entrée;Italian;Cheese;Yes;Yes
+17;Chicken & Mushrooms in a Garlic White Wine Sauce;4;220;30;6;10;Entrée;Italian;Chicken;No;Yes
+18;Chicken Alfredo with Broccoli;4;429;31;11;51;Entrée;Italian;Chicken;No;Yes
+19;Chicken Club Avocado Boats;4;397;29;26;9;Entrée;American;Chicken;No;Yes
+20;Chicken Gyro Bowls;4;386;24;15;39;Entrée;Mediterranean;Chicken;No;No
+21;Chicken Helper;4;418;30;14;48;Entrée;Italian;Chicken;No;No
+22;Chicken Panang Curry Noodle Bowls;4;468;23;26;25;Entrée;Asian;Chicken;No;Yes
+23;Chicken Parmesan Soup;4;360;19;12;46;Soup;Italian;Chicken;No;Yes
+24;Chicken Pesto Bake;4;109;14;18;2;Protein;Italian;Chicken;No;Yes
+25;Chicken Rollatini with Spinach;4;428;43;22;11;Entrée;Italian;Chicken;No;No
+26;Chicken Spinach Soup;4;233;20;1;39;Soup;American;Chicken;No;No
+27;Chicken Tikka Masala;4;498;37;16;39;Entrée;Indian;Chicken;No;No
+28;Chicken, Feta Cheese, and Sun-Dried Tomato Wraps;4;270;15;11;32;Entrée;Mediterranean;Chicken;No;Yes
+29;Chipotle Chicken Taco Salad;4;296;22;8;36;Entrée;Mexican;Chicken;No;Yes
+30;Chipotle-Spiced Beef and Bean Chili;4;444;32;20;34;Soup;Mexican;Beef;No;Yes
+31;Chorizo Stuffed Poblano Peppers;4;365;17;26;14;Entrée;Mexican;Chorizo;Yes;Yes
+32;Coconut Red Curry with Tofu;4;429;16;19;47;Entrée;Asian;Tofu;Yes;No
+33;Creamy Cucumber and Tomato Salad;4;130;1;9;11;Side;Mediterranean;None;Yes;No
+34;Creamy Garlic Mushroom Chicken;4;286;31;16;6;Entrée;American;Chicken;No;No
+35;Creamy Garlic Mushroom Soup;4;171;12;10;8;Soup;American;None;Yes;Yes
+36;Creamy Three-Bean Stew;4;424;25;10;72;Soup;Italian;Beans;Yes;Yes
+37;Crispy and Tender Baked Chicken Thighs;4;247;18;20;0;Protein;American;Chicken;No;Yes
+38;Crispy Baked Chicken Breasts;4;293;29;6;33;Protein;American;Chicken;No;No
+39;Crispy Chicken Thighs with Bacon and Wilted Escarole;4;469;31;36;7;Entrée;Italian;Chicken;No;No
+40;Cucumber Avocado Salad;4;110;2;9;10;Side;American;None;Yes;Yes
+41;Curried Cauliflower Soup;4;256;5;16;20;Soup;Asian;None;Yes;Yes
+42;Curried Chickpeas with Spinach;4;245;10;9;37;Entrée;Mediterranean;Chickpeas;No;No
+43;Curry Soup with Lentils and Potato;4;426;13;6;83;Soup;Indian;Lentils;Yes;Yes
+44;Easy Mustard Pork Tenderloin with Grilled Vegetables in Foil;4;436;34;27;21;Entrée;American;Pork;No;No
+45;Easy Oven Fajitas;4;394;29;16;40;Protein;Mexican;Chicken;No;Yes
+46;Eggplant and Tofu Curry;4;470;17;31;33;Entrée;Indian;Tofu;Yes;No
+47;Eggplant Bruschetta;4;181;2;13;14;Entrée;Italian;Cheese;Yes;Yes
+48;Food Cart-Style Chicken Salad with White Sauce;4;339;37;16;14;Entrée;Mediterranean;Chicken;No;Yes
+49;Fresh Tomato Basil Pasta with Ricotta;4;465;17;15;62;Entrée;Italian;Cheese;Yes;Yes
+50;Garlic Roasted Cabbage Wedges;4;188;4;12;19;Side;American;None;Yes;Yes
+51;Geechigirl Crab Cakes;4;364;28;25;6;Entrée;Southern;Fish;No;No
+52;Greek Yogurt Pancakes;4;346;12;13;44;Breakfast;American;Greek yogurt;Yes;No
+53;Grilled Corn and Poblano Salad;4;278;5;16;36;Side;Mexican;None;No;No
+54;Harvest Roasted Vegetable Grain Bowl;4;425;15;19;47;Entrée;American;Farro;No;No
+55;Herb Roasted Chicken Breasts;4;336;35;17;13;Protein;American;Chicken;No;No
+56;Indonesian Chicken;4;218;22;10;11;Entrée;Asian;Chicken;No;No
+57;Italian Orzo Spinach Soup;4;356;10;10;56;Soup;Italian;None;Yes;Yes
+58;Italian Sausage Soup;4;236;14;12;17;Soup;Italian;Eggs;No;Yes
+59;Jalapeno, Pepper Jack, and Turkey Bacon Quiche;4;416;25;24;27;Breakfast;Mexican;Bacon;No;No
+60;Korean Style Ground Beef and Spinach Rice Bowls;4;473;33;24;30;Entrée;Asian;Beef;No;Yes
+61;Lentil Dal with Hearty Greens;4;331;18;7;48;Entrée;Indian;Lentils;Yes;Yes
+62;Loaded Potato Soup;4;345;11;13;46;Soup;American;Cheese;Yes;Yes
+63;Make-Ahead Mustardy Quinoa with Sausage, Potato, and Tarragon;4;312;9;15;36;Entrée;American;Sausage;No;Yes
+64;Marinated Baked Tofu;4;179;13;12;6;Protein;Asian;Tofu;Yes;No
+65;Mediterranean Hummus Bowls;4;531;24;29;49;Entrée;Mediterranean;Beef;No;Yes
+66;Mexican Casserole with Roasted Corn and Peppers;4;366;15;11;57;Entrée;Mexican;Beans;Yes;No
+67;Mozzarella Chicken in Tomato Sauce;4;207;22;12;4;Protein;Italian;Chicken;No;Yes
+68;No Sugar Added Apple Pie Overnight Oats;4;330;5;9;59;Breakfast;American;None;Yes;No
+69;No-Cook BLT Salad;4;293;21;16;18;Entrée;American;Bacon;No;No
+70;One Pan Cheesy Jalapeno Chicken;4;465;34;26;26;Entrée;Mexican;Chicken;No;No
+71;One Pot Creamy Cajun Chicken Pasta;4;482;34;15;51;Entrée;Italian;Chicken;No;No
+72;One Pot Sausage and Sun Dried Tomato Pasta;4;371;21;11;49;Entrée;Mediterranean;Sausage;No;Yes
+73;One Pot Unstuffed Cabbage Rolls;4;329;29;8;35;Entrée;European;Beef;No;No
+74;Orange Tofu Chickpea Bowls;4;544;24;17;74;Entrée;Asian;Tofu;Yes;No
+75;Pan-Toasted Sweet Corn with Wilted Chard and Black Beans;4;168;9;2;32;Side;Southern;None;Yes;No
+76;Parmesan Garlic Spaghetti Squash;4;267;3;12;11;Entrée;Italian;Cheese;Yes;Yes
+77;Peanutty Quinoa Bowls with Baked Tofu;4;376;21;16;41;Entrée;Asian;Tofu;Yes;Yes
+78;Philly Cheesesteak Stuffed Portobello Mushrooms;4;282;17;18;9;Entrée;American;Beef;No;No
+79;Pico de Gallo;4;150;4;0;31;Side;Mexican;None;Nyes;No
+80;Pork Chops and Couscous with Tomato-Caper Sauce;4;420;31;17;39;Entrée;Mediterranean;Pork;No;No
+81;Pork Egg Roll in a Bowl;4;416;22;31;11;Entrée;Asian;Pork;No;No
+82;Pork with Caramelized Onion and Rosemary-Roasted Root Vegetables;4;362;15;8;46;Entrée;American;Pork;No;No
+83;Portobello Polenta Bowls;4;314;13;9;50;Entrée;Mediterranean;Cheese;Yes;No
+84;Potato, Leek, and Corn Chowder;4;381;13;14;53;Soup;Southern;None;Yes;Yes
+85;Roasted Cabbage Wedges with Onion Dijon Sauce;4;122;2;9;10;Side;American;None;Yes;Yes
+86;Roasted Cauliflower and Chickpeas with Minted Yogurt;4;205;12;7;31;Entrée;Mediterranean;Chickpeas;No;No
+87;Roasted Garlic Chicken Salad;4;261;28;15;7;Entrée;American;Chicken;No;Yes
+88;Roasted Parmesan Broccoli;4;173;10;11;10;Side;American;Cheese;Yes;No
+89;Roasted Red Pepper and Garlic Soup;4;366;12;14;51;Soup;Mediterranean;None;Yes;No
+90;Sausage and Kale Cassoulet;4;339;25;5;47;Soup;European;Sausage;No;No
+91;Sauteed Cabbage and Kielbasa;4;381;21;18;20;Entrée;European;Sausage;No;No
+92;Shawarma-Spiced Grilled Chicken with Garlic Yogurt;4;205;28;8;10;Protein;Mediterranean;Chicken;No;Yes
+93;Sheet Pan Pork Chop Supper;4;454;50;24;19;Entrée;American;Pork;No;Yes
+94;Simple Baked Chicken Drumsticks;4;206;20;14;1;Entrée;American;Chicken;No;Yes
+95;Simple Herb Mushroom Barley Salad;4;314;10;9;50;Entrée;American;Barley;Yes;Yes
+96;Simple Tomato Cucumber Salad;4;165;2;14;6;Side;Mediterranean;None;Yes;No
+97;Skillet Pasta with Sun Dried Tomatoes, Walnuts, and Feta;4;355;12;12;54;Entrée;Mediterranean;Nuts;Yes;No
+98;Skillet Steak with Onions and Mushrooms;4;124;14;5;4;Protein;American;Beef;No;No
+99;Slow Cooker Beef and Pepper Soup;4;372;41;10;29;Soup;American;Beef;No;No
+100;Slow Cooker Mediterranean Chicken & Orzo;4;272;28;5;31;Entrée;Italian;Chicken;No;No
+101;Slow Cooker Mushroom Barley Risotto;4;425;13;8;71;Entrée;Italian;Barley;Yes;Yes
+102;Slow Cooker Peanut Butter Chicken;4;336;35;17;13;Entrée;American;Chicken;No;Yes
+103;Slow Cooker Tofu Tikka Masala;4;383;14;23;26;Entrée;Indian;Tofu;Yes;Yes
+104;Spicy Black Bean Burgers;4;202;13;3;35;Protein;Mexican;Beans;Yes;Yes
+105;Spicy California Shrimp Stack;4;289;11;19;22;Entrée;Asian;Shrimp;No;No
+106;Spicy Fish Taco Bowls;4;357;20;12;44;Entrée;Mexican;Fish;No;Yes
+107;Spicy Shrimp & Tomato Pasta;4;314;17;12;36;Entrée;Italian;Shrimp;No;Yes
+108;Spinach, Mushroom, and Feta Crustless Quiche;4;233;19;14;7;Breakfast;Mediterranean;Eggs;No;Yes
+109;Stewed Tofu with Corn and Tomatoes;4;302;13;13;59;Entrée;American;Tofu;Yes;Yes
+110;Stir-Fried Chicken with Bok Choy;4;321;26;10;34;Entrée;Asian;Chicken;No;Yes
+111;Stir-Fried Tofu with Mushrooms, Sugar Snap Peas, and Green Onions;4;224;11;12;16;Entrée;Asian;Tofu;Yes;No
+112;Stuffed Eggplant;4;497;30;28;38;Entrée;Italian;Beef;No;No
+113;Stuffed Peppers with Corn, Black Beans, and Pepper Jack;4;382;21;11;60;Entrée;Mexican;Beans;Yes;No
+114;Thai Coconut Curry Butternut Squash Soup;4;306;6;21;25;Soup;Asian;None;Yes;No
+115;Thai Coconut Soup;4;225;3;7;38;Soup;Asian;None;Yes;No
+116;Thai Curry Vegetable Soup;4;368;4;23;35;Soup;Asian;None;Yes;No
+117;Thai Meatball and Egg Drop Soup;4;340;30;17;11;Soup;Asian;Turkey;No;Yes
+118;Thai Red Curry with Vegetables;4;519;16;25;58;Entrée;Asian;Tofu;Yes;Yes
+119;Tofu Parmigiana;4;229;16;11;17;Entrée;Italian;Tofu;Yes;Yes
+120;Tomato Dijon Turkey Meatballs;4;220;40;2;5;Protein;Italian;Turkey;No;Yes
+121;Turkey Meatball Stroganoff;4;286;28;13;17;Entrée;European;Turkey;No;Yes
+122;Vegan Buddha Bowl;4;497;18;28;56;Entrée;American;Tofu;Yes;Yes
+123;Whole-Grain Veggie Burrito Bowl;4;394;15;19;53;Entrée;Mexican;Beans;Yes;No
+124;Baked Shrimp Scampi;4;267;;;;Protein;Asian;Shrimp;No;No
+125;Strawberries Romanov (La Madeleine copycat);4;82;;;;Side;American;None;Yes;No
+126;Tomato Basil Soup (La Madeleine copycat);4;128;;;;Soup;American;None;Yes;No
+127;John Thorne's Pecan Pie;4;389;;;;Breakfast;European;Nuts;Yes;No
+128;Smoked Salmon Ebelskivers;4;244;;;;Entrée;Asian;Sausage;No;No
+129;Godiva Angel Pie;4;388;;;;Breakfast;European;Fish;Yes;No
+130;Pot Roast Carbonnade;4;410;;;;Entrée;Italian;Beef;No;Yes
+131;Old Fashion Vegetable Soup;4;102;;;;Soup;Southern;None;Yes;Yes
+132;Godiva Dark Chocolate Cheesecake;4;410;;;;Desert;European;None;Yes;Yes
+133;Greek Salad;4;128;;;;Breakfast;European;None;Yes;Yes
+134;Flaky Buttermilk Biscuits;4;266;;;;Side;South American;None;Yes;Yes
+135;Grilled Portobello Mushrooms Stacked with Fresh Spinach and Shaved Manchego Cheese;4;192;;;;Entrée;European;Cheese;Yes;No
+136;Sherry Vinaigrette;4;120;;;;Side;Mediterranean;None;Yes;No
+137;Margherita Salad;4;121;;;;Side;Mediterranean;None;Yes;No
+138;Mexican Ensalada;4;130;;;;Side;Italian;None;Yes;Yes
+139;Super Protein Salad;4;140;;;;Protein;Mexican;None;Yes;Yes
+140;Sweet Almond Date Smoothie;4;82;;;;Side;Mexican;Nuts;Yes;Yes
+141;Apple Carrot Salad;4;89;;;;Side;American;None;Yes;Yes
+142;Extreme Green Salad;4;95;;;;Side;American;None;Yes;No
+143;Popeye's Muscle Salad;4;122;;;;Side;Italian;Beef;Yes;No
+144;Breakfast Mediterranean Scramble;4;399;;;;Breakfast;Mediterranean;None;Yes;No
+145;Best Oatmeal Ever;4;321;;;;Breakfast;European;None;Yes;No
+146;Sweet Mashed Potatoes;4;299;;;;Side;South American;None;Yes;No
+147;Roquefort Cheese Sauce;4;100;;;;Protein;American;Cheese;Yes;Yes
+148;Stove top mac and cheese;4;410;;;;Entrée;American;Cheese;Yes;Yes
+149;The Original Chex Party Mix;4;177;;;;Side;European;None;Yes;Yes
+150;Handmade Pasta;4;480;;;;Entrée;Italian;Beef;No;Yes
+151;Vegetarian Chili;4;266;;;;Side;Mexican;Beans;Yes;Yes
+152;Basil-Lime Vinaigrette;4;125;;;;Entrée;European;None;Yes;Yes
+153;Lentil Soup;4;180;;;;Soup;Mediterranean;Lentils;Yes;No
+154;Vegetable Stock;4;140;;;;Side;Mediterranean;None;Yes;No
+155;Grilled garlic-lime fish tacos;4;360;;;;Entrée;Mexican;Fish;No;No
+156;Spicy Rice Casserole;4;289;;;;Entrée;Mexican;Beef;Yes;No
+157;Citrus Rice Salad;4;244;;;;Side;European;None;Yes;No
+158;Straw and Hay Fettuccine Tangle;4;120;;;;Side;European;None;Yes;No
+159;Green-packed Stir Fry with Fresh Herbs;4;177;;;;Entrée;Mediterranean;None;Yes;Yes
+160;Apple-Brie Panini;4;244;;;;Breakfast;European;Cheese;Yes;Yes
+161;Shredded Green Beans;4;123;;;;Protein;South American;Beans;Yes;Yes
+162;Pesto Orzo with Peas;4;150;;;;Entrée;Italian;Peas;Yes;Yes
+163;Roasted potatoes and tomatoes;4;377;;;;Entrée;Southern;None;Yes;Yes
+164;Almond Caesar salad with croutons;4;230;;;;Side;European;Nuts;Yes;Yes
+165;Schnitzel;4;350;;;;Protein;European;Pork;No;No
+166;Oregano Marinated Chicken;4;366;;;;Protein;Italian;Chicken;No;No
+167;Black bean and cheese tacos;4;467;;;;Entrée;Mexican;Cheese;Yes;No
+168;Joan's Broccoli Madness;4;56;;;;Side;Southern;None;Yes;No
+169;Creamy tomato soup;4;89;;;;Soup;European;None;Yes;No
+170;Triple Grilled Cheese;4;310;;;;Protein;Italian;Cheese;Yes;No
+171;Vegetarian Steamed Dumplings;4;278;;;;Entrée;Asian;Beef;No;Yes
+172;Soba salad with asparagus and shrimp;4;312;;;;Entrée;Asian;Shrimp;No;Yes
+173;Tofu and Sweet Potato Jambalaya;4;125;;;;Entrée;Asian;Tofu;Yes;Yes
+174;Parker's split pea soup;4;278;;;;Soup;American;Peas;Yes;Yes
+175;Wild Mushroom Risotto;4;127;;;;Entrée;Italian;None;Yes;Yes
+176;Roasted Salmon with Walnut-Pepper Relish;4;510;;;;Entrée;Asian;Fish;No;Yes
+177;Brown rice, chickpea, feta, and mint salad;4;502;;;;Entrée;European;Chickpeas;No;No
+178;Greek yogurt with homemade honeycomb;4;302;;;;Protein;Southern;Greek yogurt;Yes;No
+179;Spinach souffle;4;260;;;;Side;European;None;Yes;No
+180;Roasted Shallot Vinaigrette;4;220;;;;Entrée;South American;None;Yes;No
+181;Peanut Noodle Salad;4;378;;;;Side;Asian;Nuts;Yes;Yes
+182;Artichoke, Leek, and Potato Casserole;4;244;;;;Entrée;Mexican;Beef;Yes;No
+183;Broccoli with Parmesan and Walnuts;4;210;;;;Side;European;Nuts;Yes;Yes
+184;Emeril's strawberry lemonade;4;89;;;;Protein;European;None;Yes;No
+185;Pizza bianca;4;678;;;;Entrée;Italian;Beef;Yes;Yes
+186;Smoky Sweet-Potato Soup;4;120;;;;Soup;Mediterranean;None;Yes;No
+187;Creamy roasted garlic dressing;4;135;;;;Condiment;Italian;None;Yes;No
+188;Shrimp and edamame with lime;4;137;;;;Side;Asian;Shrimp;No;No
+189;Strawberries and cream bars;4;203;;;;Protein;European;None;Yes;No
+190;Frozen chocolate mousse trifles;4;367;;;;Desert;American;None;Yes;Yes
+191;Frozen lemon souffle;4;202;;;;Desert;American;None;Yes;Yes
+192;Coconut lime semifreddo;4;100;;;;Desert;European;None;Yes;Yes
+193;Sweet cherry granita;4;102;;;;Desert;Italian;Nuts;Yes;Yes
+194;Baby Brussels sprouts with wild rice and pecans;4;425;;;;Entrée;European;Nuts;Yes;Yes
+195;Pumpkin mousse;4;320;;;;Desert;American;None;Yes;Yes
+196;Salted caramel six layer chocolate cake;4;560;;;;Desert;European;None;Yes;Yes
+197;Cranberry almond muffins;4;346;;;;Desert;American;Nuts;Yes;Yes
+198;Hazelnut pear muffins;4;234;;;;Desert;Southern;Nuts;Yes;No
+199;Pate brisee;4;100;;;;Desert;European;None;Yes;No
+200;Tex-mex rice and black eyed peas;4;145;;;;Entrée;Mexican;Peas;Yes;No
+201;Baked eggs and beans on toast;4;467;;;;Entrée;European;Eggs;Yes;Yes
+202;Warm shrimp and potato salad;4;345;;;;Side;Asian;Shrimp;No;Yes
+203;Cherry couscous pudding;4;200;;;;Desert;European;None;Yes;Yes
+204;Spinach lasagna with mushroom ragu;4;245;;;;Entrée;Italian;Beef;Yes;Yes
+205;Chocolate chestnut mousse;4;520;;;;Desert;European;Nuts;Yes;Yes
+206;Spicy sauteed kale with lemon;4;200;;;;Desert;American;None;Yes;Yes
+207;Gluten-free chocolate chips cookies;4;432;;;;Desert;American;None;Yes;Yes
+208;Homemade candy canes;4;400;;;;Desert;American;None;Yes;Yes
+209;Pecan Pie;4;378;;;;Breakfast;European;Nuts;Yes;No
+210;Asian Salad;4;200;;;;Side;Asian;Fish;Yes;No
+211;Pasta with roasted vegetables and bacon;4;456;;;;Entrée;European;Bacon;No;No
+212;Pretzel shortbread bar;4;240;;;;Breakfast;South American;None;Yes;No
+213;Three cheese macaroni;4;670;;;;Entrée;Italian;Cheese;Yes;No
+214;Broken glass cupcakes;4;450;;;;Desert;American;None;Yes;Yes
+215;Homemade beef stock;4;200;;;;Protein;American;Beef;No;Yes
+216;French onion soup;4;120;;;;Soup;European;None;Yes;Yes
+217;Red lentil soup with sage and bacon;4;420;;;;Soup;European;Bacon;No;Yes
+218;Green pea soup with cheddar scallion panini;4;340;;;;Soup;Italian;Peas;No;Yes
+219;Broccoli soup with cheddar toasts;4;200;;;;Soup;European;Cheese;Yes;No
+220;Coconut shrimp soup;4;230;;;;Soup;American;Shrimp;Yes;No
+221;Creamy caramelized onion soup;4;120;;;;Soup;European;None;Yes;No
+222;Hearty spinach and chickpea soup;4;130;;;;Soup;European;Chickpeas;No;Yes
+223;Mushroom soup;4;132;;;;Soup;Italian;None;Yes;Yes
+224;Harvest pumpkin soup;4;144;;;;Entrée;Southern;None;Yes;Yes
+225;Lighter macaroni and cheese;4;452;;;;Desert;American;Cheese;Yes;Yes
+226;Chocolate cheesecake squares;4;560;;;;Desert;European;None;Yes;No
+227;Chocolate cinnamon pudding;4;520;;;;Desert;European;None;Yes;No
+228;Creepy crawly cake;4;430;;;;Desert;Mediterranean;None;Yes;No
+229;Japanese style grilled salmon;4;562;;;;Entrée;Asian;Fish;No;Yes
+230;Dang cold Asian noodle salad;4;234;;;;Side;Asian;Fish;No;Yes
+231;Grilled salmon gyros;4;623;;;;Protein;Asian;Fish;No;Yes
+232;Grilled salmon sushi rice bowl;4;346;;;;Protein;Asian;Fish;No;No
+233;Roasted cauliflower and white beans;4;234;;;;Side;Asian;Beans;Yes;No
+234;Shrimp and cabbage stir fry;4;356;;;;Protein;Asian;Shrimp;Yes;No
+235;Avocado feta dip;4;200;;;;Side;European;Cheese;Yes;Yes
+236;Herb crusted salmon with spinach salad;4;389;;;;Side;Asian;Fish;Yes;Yes
+237;Chocolate-Hazelnut Icebox Cake;4;234;;;;Desert;European;Nuts;Yes;Yes
+238;Smoky Yukon Gold Potato Chowder;4;299;;;;Entrée;American;None;Yes;No
+239;Orecchiette with roasted cauliflower;4;280;;;;Condiment;American;None;Yes;No
+240;Salsa fresca;4;132;;;;Side;Mexican;Beans;Yes;No
+241;Black bean salad with chipotle honey dressing;4;311;;;;Side;Mexican;Beans;Yes;Yes
+242;Linguine with asparagus and egg;4;402;;;;Entrée;European;Eggs;Yes;Yes
+243;Spanakopita;4;302;;;;Entrée;Italian;None;Yes;Yes
+244;Cherry lime granola;4;89;;;;Breakfast;Mediterranean;Nuts;Yes;No
+245;Simple lemon cake;4;388;;;;Desert;Mediterranean;None;Yes;No
+246;Pecan molasses granola;4;300;;;;Breakfast;European;Nuts;Yes;No
+247;Salmon and potatoes in tomato sauce;4;490;;;;Entrée;Asian;Fish;No;Yes
+248;Pear and chocolate brioche bread pudding;4;502;;;;Desert;European;None;Yes;Yes
+249;Potato hash with spinach and eggs;4;560;;;;Entrée;American;Eggs;No;Yes
+250;Brussels sprouts with maple and cayenne;4;420;;;;Entrée;European;None;Yes;No
+251;Roasted sweet potatoes and bacon;4;455;;;;Entrée;American;Bacon;No;No
+252;Marinated feta, spinach & poached egg salad;4;290;;;;Side;Italian;Eggs;No;No
+253;Chocolate banana ice cream pie;4;589;;;;Breakfast;Italian;None;Yes;Yes
+254;Salmon rillettes with tomato salad;4;455;;;;Side;Asian;Fish;No;Yes
+255;Granitaville;4;367;;;;Side;Mexican;Nuts;Yes;Yes
+256;Smoky white bean and arugula panini;4;409;;;;Entrée;Italian;Beans;Yes;No
+257;Easy chickpea and vegetable curry;4;390;;;;Entrée;Indian;Chickpeas;Yes;No
+258;Chiles Rellenos;4;577;;;;Entrée;Indian;None;Yes;No
+259;Hawaiian style short ribs (slow cooker);4;620;;;;Protein;American;Beef;No;No
+260;Cheese crackers;4;432;;;;Side;European;Cheese;Yes;Yes
+261;Roasted sweet potato salsa;4;234;;;;Side;South American;None;Yes;Yes
+262;Shredded Brussels sprouts with pancetta;4;467;;;;Entrée;European;Beef;No;Yes
+263;Brown sugar buttermilk pie;4;566;;;;Desert;European;None;Yes;Yes
